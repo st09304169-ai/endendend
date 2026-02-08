@@ -20,6 +20,7 @@ export const BASIC_EFFECT_OPTIONS = [
 
 export const ADDITIONAL_EFFECT_OPTIONS = [
   '攻撃力',
+  'HP',
   '物理ダメージ',
   '灼熱ダメージ',
   '電磁ダメージ',
@@ -36,8 +37,13 @@ export const SKILL_OPTIONS = [
   '強攻',
   '圧制',
   '追襲',
+  '破砕',
   '昇揚',
+  '功技',
+  '残虐',
+  '付術',
   '夜幕',
+  '噴発',
   '流回',
   '治癒',
   '切骨',
